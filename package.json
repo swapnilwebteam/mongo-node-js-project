@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "mongo": "^0.1.0",
+    "node.js": "^0.0.1-security"
+  }
+}
